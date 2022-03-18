@@ -9,7 +9,7 @@
 ```py
 from common import parse
 info = parse('[现代启示录].Apocalypse.Now.2001.Remux.BluRay.720p.x264.AC3-CMCT.mkv')
-print info # All details that were parsed
+print info
 ```
 
 ## 功能
